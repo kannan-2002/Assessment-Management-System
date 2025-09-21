@@ -26,7 +26,7 @@ A full stack application for managing assessments, built with React, TypeScript,
 ### Installation
 1. Clone the repository:
    ```sh
-git clone https://github.com/kannan-2002/Assessment-Management-System.git
+   git clone https://github.com/kannan-2002/Assessment-Management-System.git
    cd Assessment-Management-System
    ```
 2. Install dependencies:
